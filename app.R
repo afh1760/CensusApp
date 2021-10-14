@@ -7,7 +7,7 @@ source("helpers.R")
 
 # User interface ----
 ui <- fluidPage(
-  titlePanel("censusVis"),
+  titlePanel("Census Visualization"),
   
   sidebarLayout(
     sidebarPanel(
